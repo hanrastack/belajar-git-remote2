@@ -1,0 +1,3 @@
+[submodule "sub-scripts"]
+	path = sub-scripts
+	url = git@github.com:hanrastack/belajar-git-submodule.git
